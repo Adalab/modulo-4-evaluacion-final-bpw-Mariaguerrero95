@@ -55,4 +55,4 @@ cors
 
 ## Credits
 
-This project was created by the student María Guerrero
+This project was created by the student María Guerrero and thanks to Professor Ana from Adalab.
