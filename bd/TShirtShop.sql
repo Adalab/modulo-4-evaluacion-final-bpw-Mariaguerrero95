@@ -1,5 +1,4 @@
 CREATE DATABASE tshirts;
-
 USE tshirts;
 
 CREATE TABLE product (
