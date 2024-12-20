@@ -117,7 +117,7 @@ api.put("/user/:idUser", async (req, res) => {
         const idUser = req.params.idUser;
         const newData = req.body;
         const connection = await getDBConnection();
-        const userQuerySQL = "UPDATE users SET  user = ?, name = ?, email = ?, password = ? WHERE  idUser = ?";
+        const userQuerySQL = "UPDATE user SET  user = ?, name = ?, email = ?, password = ? WHERE  idUser = ?";
         const [result] = await connection.query(userQuerySQL, [
             newData.user,
             newData.name,
