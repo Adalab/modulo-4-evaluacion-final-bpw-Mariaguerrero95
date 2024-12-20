@@ -2,7 +2,7 @@
 
 ¡Bienvenid@!
 
-En esta página web podrás buscar tus series de anime favoritas, así como añadirlas a tus favoritas. Es mi trabajo final en la segunda evaluación del Máster Front-end Developer por lo que combino HTML, SASS y Javascript, gracias a esta última la página es interactiva y dinámica; ¡Descúbrela!
+En esta página web podrás buscar tus series de anime favoritas, así como añadirlas a tus favoritas. Es mi trabajo final de la cuarta y última evaluación del Máster Front-end Developer por lo que combino HTML, SASS y Javascript, gracias a esta última la página es interactiva y dinámica; ¡Descúbrela!
 
 ## ¿Dónde puedo encontrar la página web?
 
